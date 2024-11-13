@@ -8,7 +8,7 @@
 1. Відкрийте термінал Developer PowerShell for VS 2022
 2. Перейдіть до кореневої папки проекту
 
-# LAB1-3 INFO:
+# MKR1 INFO:
 Запустити лабораторну:
 ```bash
 dotnet build Build.proj -t:Run -p:Solution=MKR1
